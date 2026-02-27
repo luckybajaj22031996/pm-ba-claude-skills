@@ -93,7 +93,7 @@ These skills encode the document patterns I've used across real product teams �
 
 - 🌐 [Portfolio](https://lucky-bajaj-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucky-bajaj/)
-- ☕ [Buy Me a Coffee](buymeacoffee.com/lucky.bajaj) — if these saved you time
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/lucky.bajaj) — if these saved you time
 
 ## License
 
