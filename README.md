@@ -91,7 +91,7 @@ You can open any `.skill` file as a zip and read the SKILL.md inside if you want
 
 These skills encode the document patterns I've used across real product teams — not generic templates.
 
-- 🌐 [luckybajaj.com](https://luckybajaj.com)
+- 🌐 [Portfolio](https://lucky-bajaj-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucky-bajaj/)
 - ☕ [Buy Me a Coffee](buymeacoffee.com/lucky.bajaj) — if these saved you time
 
